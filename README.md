@@ -2,7 +2,7 @@
 
 Welcome friend My Public Profile 
 
-- 👨‍💻 All [my projects](https://github.com/JuanCPoos/JuanCPoos)
+- 👨‍💻 All [my projects](https://github.com/JuanCPoos/JuanCPoos) in Github
 - 🔭 I’m currently working on my page: [Primeros Pasos](https://github.com/JuanCPoos/primeros-pasos)
 
 <!--
