@@ -5,7 +5,7 @@ Welcome friend My Public Profile
 - 👨‍💻 All [my projects](https://github.com/JuanCPoos/JuanCPoos) in Github
 - 🔭 I’m currently working on my page: [Primeros Pasos](https://github.com/JuanCPoos/primeros-pasos)
 - 💬 Ask me about HTML, CSS, JavaScript, ReactJS, Bootstrap, Tailwind and, MS Excel. 
-- 📫 write me a message at [email](emailto:juan.cpoos@gmail.com)
+
 <!--
 **JuanCPoos/JuanCPoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
