@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋
 
 Welcome friend My Public Profile 
 
@@ -6,7 +6,7 @@ Welcome friend My Public Profile
 - 🔭 I’m currently working on my page: [Primeros Pasos](https://github.com/JuanCPoos/primeros-pasos)
 - 💬 Ask me about HTML, CSS, JavaScript, ReactJS, Bootstrap, Tailwind and, MS Excel. 
 
-<!--
+
 **JuanCPoos/JuanCPoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
