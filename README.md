@@ -2,7 +2,7 @@
 
 Hola, encantado de conocerte! 🙋🏽‍♂️ Soy Juan C. Poós, estudiante de Desarrollo de Software y Análisis de Datos con un profundo amor por la innovación tecnológica.
 
-Con casi 5 años de experiencia en la industria de la energía eléctrica, he cultivado valiosas habilidades en las áreas de Recursos Humanos y Servicios al Usuario. Esta experiencia me ha brindado una comprensión sólida de los desafíos y oportunidades en este dinámico campo.
+Con más 5 años de experiencia en la industria de la energía eléctrica, he cultivado valiosas habilidades en las áreas de Recursos Humanos y Servicios al Usuario. Esta experiencia me ha brindado una comprensión sólida de los desafíos y oportunidades en este dinámico campo.
 
 Ahora, estoy listo para explorar nuevos horizontes en el  mundo de la tecnología de la información, donde busco impulsar mi desarrollo profesional. Mi entusiasmo radica en la adquisición de nuevos conocimientos y habilidades en IT para aplicar mi stacl en proyectos innovadores.
 
